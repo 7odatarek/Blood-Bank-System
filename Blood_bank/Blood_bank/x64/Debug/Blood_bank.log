@@ -1,0 +1,12 @@
+﻿  Blood.cpp
+  Doner.cpp
+  Recipient.cpp
+  main.cpp
+  User.cpp
+E:\source\repos\Blood_bank part 2\Blood_bank\Blood_bank\User.cpp(37,8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\source\repos\Blood_bank part 2\Blood_bank\Blood_bank\User.cpp(469,13): warning C4129: 'B': unrecognized character escape sequence
+E:\source\repos\Blood_bank part 2\Blood_bank\Blood_bank\User.cpp(604,13): warning C4129: 'B': unrecognized character escape sequence
+E:\source\repos\Blood_bank part 2\Blood_bank\Blood_bank\User.cpp(778,11): warning C4129: 'B': unrecognized character escape sequence
+  Generating Code...
+E:\source\repos\Blood_bank part 2\Blood_bank\Blood_bank\User.cpp(801): warning C4715: 'User::get_Date_of_last_donation': not all control paths return a value
+  Blood_bank.vcxproj -> E:\source\repos\Blood_bank part 2\Blood_bank\x64\Debug\Blood_bank.exe
